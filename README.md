@@ -25,3 +25,10 @@
 
 - Other:
   > "So, focus on the team and good vibes of Omsom, portfolio style of Creative Review, interactivity of Make Me Pulse. I don't know if Stripe is relevant. If you want to know the differentiators, we're all about the family. We see clients as friends and will do whatever we can to make magic happen. People genuinely enjoy working with us. So while others highlight more of the taelnt, our thing is highlighting our team and capabilities. Not who we've worked with."
+
+## Possible Solutions:
+
+- PHP
+- Nuxt.js
+- Shopify
+- Wordpress
